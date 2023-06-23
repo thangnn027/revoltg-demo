@@ -1,0 +1,271 @@
+/* GOOGLE FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Dancing+Script:wght@500&family=Quicksand:wght@300;400&display=swap');
+
+/* VARIABLE CSS */
+:root {
+    /* COLOR */
+    --trang: #FFFFFF;
+    --xamnhat: #E3E3E3;
+    --hong: #FFBABA;
+    --xanhdam: #0E1D31;
+    --navy: #27374D;
+    --xanhden: #171717;
+    --xamdam: #707070;
+    --do: #FF0000;
+    --longcong: #526D82;
+    --xanhmint: #9DB2BF;
+    --xanhnhat: #DDE6ED;
+    --trang2: #FCFCFC;
+    /* FONT AND TYPOGRAPHY */
+    --body-font: 'Be Vietnam Pro', sans-serif;
+    --h1-font-size: 96px;
+    --h2-font-size: 60px;
+    --h3-font-size: 48px;
+    --h4-font-size: 34px;
+    --h5-font-size: 24px;
+    --h6-font-size: 20px;
+    --sub1-font-size: 16px;
+    --sub2-font-size: 14px;
+    --body1-font-size: 16px;
+    --body2-font-size: 14px;
+    --button-font-size: 14x;
+    --caption-font-size: 12px;
+    --overline-font-size: 10px;
+    /* FONT WEIGHT  */
+    --font-normal: 400;
+    --font-medium: 500;
+    --font-semibold: 600;
+    --font-bold: 700;
+    /* Z-INDEX */
+    --z-tooltip: 10;
+    --z-fixed: 100;
+    --z-modal: 1000;
+    line-height: 1.6;
+}
+
+/* BASE  */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: var(--trang);
+    list-style: none;
+    text-decoration: none;
+
+
+}
+
+html {
+    scroll-behavior: smooth;
+}
+/* Body  */
+body {
+    background-color: var(--xanhdam);
+    padding: 0;
+    z-index: var(--z-tooltip);
+}
+/* logo  */
+#logo {
+    text-align: center;
+    padding-top: 169px;
+    margin-bottom: 50px;
+}
+.logo {
+    width: 220px;
+    height: 49.625px;
+    
+}
+
+/* đăng nhập */
+.body {
+    position: relative;
+    filter: blur(13px);
+    box-shadow: 1px 3px 2px var(--trang);
+    z-index: var(--z-tooltip);
+}
+#dangnhap {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.tendangnhap {
+    width: 444px;
+    height: 60px;
+    background-color: var(--navy);
+    line-height: 60px;
+    color: var(--trang);
+    font-size: var(--sub1-font-size);
+    padding-left: 23px;
+    margin-bottom: 18px;
+    border-radius: 8px;
+}
+.matkhau {
+    width: 444px;
+    height: 60px;
+    background-color: var(--navy);
+    line-height: 60px;
+    color: var(--trang);
+    font-size: var(--sub1-font-size);
+    padding-left: 23px;
+    border-radius: 8px;
+    margin-bottom: 18px;
+}
+.nhaplaimatkhau {
+    width: 444px;
+    height: 60px;
+    background-color: var(--navy);
+    line-height: 60px;
+    color: var(--trang);
+    font-size: var(--sub1-font-size);
+    padding-left: 23px;
+    border-radius: 8px;
+    margin-bottom: 18px;
+}
+.email1 {
+    width: 444px;
+    height: 60px;
+    background-color: var(--navy);
+    line-height: 60px;
+    color: var(--trang);
+    font-size: var(--sub1-font-size);
+    padding-left: 23px;
+    border-radius: 8px;
+}
+.ghinhodangnhap {
+    font-size: var(--body2-font-size);
+    font-weight: var(--font-medium);
+    padding-top: 23px;
+    text-align: left;
+    position: relative;
+    left: -146px;
+}
+.dangnhap {
+    width: 444px;
+    height: 65px;
+    background-color: var(--navy);
+    text-transform: uppercase;
+    line-height: 65px;
+    text-align: center;
+    margin-top: 37px;
+    font-size: var(--h5-font-size);
+    border-radius: 8px;
+}
+.dangky-quenmatkhau {
+    font-size: var(--h6-font-size);
+    padding-top: 26px;
+    padding-bottom: 236px;  
+}
+.dangky-quenmatkhau a {
+    text-decoration: none;
+    color: var(--trang);
+}
+.hovaten {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 18px;
+}
+.ho {
+    width: 216px;
+    height: 60px;
+    background-color: var(--navy);
+    line-height: 60px;
+    color: var(--trang);
+    font-size: var(--sub1-font-size);
+    padding-left: 23px;
+    border-radius: 8px;
+    margin-right: 12px;
+}
+.ten {
+    width: 216px;
+    height: 60px;
+    background-color: var(--navy);
+    line-height: 60px;
+    color: var(--trang);
+    font-size: var(--sub1-font-size);
+    padding-left: 23px;
+    border-radius: 8px;
+}
+.maxacnhan {
+    width: 444px;
+    height: 60px;
+    background-color: var(--navy);
+    line-height: 60px;
+    color: var(--trang);
+    font-size: var(--sub1-font-size);
+    padding-left: 23px;
+    border-radius: 8px;
+    margin-bottom: 18px;    
+}
+.matkhaumoi {
+    width: 444px;
+    height: 60px;
+    background-color: var(--navy);
+    line-height: 60px;
+    color: var(--trang);
+    font-size: var(--sub1-font-size);
+    padding-left: 23px;
+    border-radius: 8px;
+    margin-bottom: 18px;
+}
+.xacnhanlaimatkhau {
+    width: 444px;
+    height: 60px;
+    background-color: var(--navy);
+    line-height: 60px;
+    color: var(--trang);
+    font-size: var(--sub1-font-size);
+    padding-left: 23px;
+    border-radius: 8px;
+}
+.email {
+    width: 444px;
+    height: 60px;
+    background-color: var(--navy);
+    line-height: 60px;
+    color: var(--trang);
+    font-size: var(--sub1-font-size);
+    padding-left: 23px;
+    border-radius: 8px;
+    margin-bottom: 18px;
+}
+
+.dangkythanhcong {
+    width: 452px;
+    height: 373px;
+    top: -760px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: var(--z-modal);
+
+}
+.dangkythanhcong1 {
+    font-size: var(--h4-font-size);
+    font-weight: var(--font-bold);
+}
+.dangnhapngay {
+    width: 190px;
+    height: 48px;
+    background-color: var(--navy);
+    line-height: 48px;
+    text-align: center;
+    border-radius: 8px;
+    text-transform: uppercase;
+    font-weight: var(--font-bold);
+    position: relative;
+    top: -360px;
+}
+.biglogo {
+    position: relative;
+    top: -180px;
+}
+/* footer  */
+.footer {
+    background: var(--navy);
+}
+.nd-footer1 {
+    font-size: var(--body1-font-size);
+    padding: 30px 12px;
+    background: var(--navy);
+}

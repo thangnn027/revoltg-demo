@@ -1,0 +1,2449 @@
+	.mediaViewInfo {
+	    --web-view-name: Trang chu;
+	    --web-view-id: Trang_chu;
+	    --web-scale-on-resize: true;
+	    --web-enable-deep-linking: true;
+	}
+
+	:root {
+	    --web-view-ids: Trang_chu;
+	}
+
+	* {
+	    margin: 0;
+	    padding: 0;
+	    box-sizing: border-box;
+	    border: none;
+	}
+
+	#Trang_chu {
+	    position: absolute;
+	    width: 1366px;
+	    height: 2605px;
+	    background-color: rgba(255, 255, 255, 1);
+	    overflow: hidden;
+	    --web-view-name: Trang chu;
+	    --web-view-id: Trang_chu;
+	    --web-scale-on-resize: true;
+	    --web-enable-deep-linking: true;
+	}
+
+	#Trangchu1 {
+	    position: absolute;
+	    width: 1366px;
+	    height: 2611px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Trangchu2 {
+	    fill: rgba(14, 29, 49, 1);
+	    stroke: rgba(112, 112, 112, 1);
+	    stroke-width: 1px;
+	    stroke-linejoin: miter;
+	    stroke-linecap: butt;
+	    stroke-miterlimit: 4;
+	    shape-rendering: auto;
+	}
+
+	.Trangchu2 {
+	    position: absolute;
+	    overflow: visible;
+	    width: 1366px;
+	    height: 2611px;
+	    left: 0px;
+	    top: 0px;
+	}
+
+	#banner {
+	    position: absolute;
+	    width: 1088px;
+	    height: 499px;
+	    left: 139px;
+	    top: 275px;
+	    overflow: visible;
+	    padding: 24px 0px 50px 0px;
+	}
+
+	#Mask_Group_4 {
+	    position: absolute;
+	    width: 882px;
+	    height: 423px;
+	    left: 0px;
+	    top: 26px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_6 {
+	    position: absolute;
+	    width: 184px;
+	    height: 127px;
+	    left: 904px;
+	    top: 24px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_7 {
+	    position: absolute;
+	    width: 184px;
+	    height: 127px;
+	    left: 904px;
+	    top: 173px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_8 {
+	    position: absolute;
+	    width: 184px;
+	    height: 127px;
+	    left: 904px;
+	    top: 322px;
+	    overflow: visible;
+	}
+
+	#Khuyenmaidacbiet {
+	    position: absolute;
+	    width: 1086px;
+	    height: 407px;
+	    left: 139px;
+	    top: 772px;
+	    overflow: visible;
+	    padding: 24px 0px 50px 0px;
+	}
+
+	#Khuyenmaidacbiet1 {
+	    position: absolute;
+	    width: 215px;
+	    height: 82px;
+	    left: 0px;
+	    top: 24px;
+	    overflow: visible;
+	    padding: 0px 0px 50px 0px;
+	}
+
+	#Khuyenmaidacbiet2 {
+	    left: 0px;
+	    top: 0px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 216px;
+	    white-space: nowrap;
+	    text-align: left;
+	    font-family: Be Vietnam Pro;
+	    font-style: normal;
+	    font-weight: bold;
+	    font-size: 24px;
+	    color: rgba(255, 255, 255, 1);
+	}
+
+	#Repeat_Grid_7 {
+	    position: absolute;
+	    width: 1085px;
+	    height: 251px;
+	    left: 1px;
+	    top: 106px;
+	    overflow: hidden;
+	}
+
+	#Group {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Game_img {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_t {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_u {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 221px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Game_img_v {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_w {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_x {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 442px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Game_img_y {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_z {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_ {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 663px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Game_img_ {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_ {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_ba {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 884px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Game_img_ba {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_ba {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_bb {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 135px;
+	    overflow: visible;
+	}
+
+	#Game_img_bb {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_bb {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_bc {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 221px;
+	    top: 135px;
+	    overflow: visible;
+	}
+
+	#Game_img_bc {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_bc {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_bd {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 442px;
+	    top: 135px;
+	    overflow: visible;
+	}
+
+	#Game_img_bd {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_be {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_bf {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 663px;
+	    top: 135px;
+	    overflow: visible;
+	}
+
+	#Game_img_bg {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_bh {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_bi {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 884px;
+	    top: 135px;
+	    overflow: visible;
+	}
+
+	#Game_img_bj {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_bk {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Choinhieunhat {
+	    position: absolute;
+	    width: 1087px;
+	    height: 406px;
+	    left: 139px;
+	    top: 1177px;
+	    overflow: visible;
+	    padding: 24px 0px 50px 0px;
+	}
+
+	#Choinhieunhat1 {
+	    position: absolute;
+	    width: 168px;
+	    height: 82px;
+	    left: 0px;
+	    top: 24px;
+	    overflow: visible;
+	    padding: 0px 0px 50px 0px;
+	}
+
+	#Choinhieunhat2 {
+	    left: 0px;
+	    top: 0px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 169px;
+	    white-space: nowrap;
+	    text-align: left;
+	    font-family: Be Vietnam Pro;
+	    font-style: normal;
+	    font-weight: bold;
+	    font-size: 24px;
+	    color: rgba(255, 255, 255, 1);
+	}
+
+	#Repeat_Grid_8 {
+	    position: absolute;
+	    width: 1085px;
+	    height: 250px;
+	    left: 2px;
+	    top: 106px;
+	    overflow: hidden;
+	}
+
+	#Group_bp {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Game_img_bq {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_br {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_bs {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 221px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Game_img_bt {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_bu {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_bv {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 442px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Game_img_bw {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_bx {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_by {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 663px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Game_img_bz {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_b {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_b {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 884px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Game_img_b {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_ca {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_ca {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 135px;
+	    overflow: visible;
+	}
+
+	#Game_img_ca {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_cb {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_cb {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 221px;
+	    top: 135px;
+	    overflow: visible;
+	}
+
+	#Game_img_cb {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_cc {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_cc {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 442px;
+	    top: 135px;
+	    overflow: visible;
+	}
+
+	#Game_img_cc {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_cd {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_cd {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 663px;
+	    top: 135px;
+	    overflow: visible;
+	}
+
+	#Game_img_ce {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_cf {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_cg {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 884px;
+	    top: 135px;
+	    overflow: visible;
+	}
+
+	#Game_img_ch {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_ci {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Banchaynhat {
+	    position: absolute;
+	    width: 1087px;
+	    height: 406px;
+	    left: 139px;
+	    top: 1581px;
+	    overflow: visible;
+	    padding: 24px 0px 50px 0px;
+	}
+
+	#Banchaynhat1 {
+	    position: absolute;
+	    width: 149px;
+	    height: 82px;
+	    left: 0px;
+	    top: 24px;
+	    overflow: visible;
+	    padding: 0px 0px 50px 0px;
+	}
+
+	#Banchaynhat2 {
+	    left: 0px;
+	    top: 0px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 150px;
+	    white-space: nowrap;
+	    text-align: left;
+	    font-family: Be Vietnam Pro;
+	    font-style: normal;
+	    font-weight: bold;
+	    font-size: 24px;
+	    color: rgba(255, 255, 255, 1);
+	}
+
+	#Repeat_Grid_8_cm {
+	    position: absolute;
+	    width: 1085px;
+	    height: 250px;
+	    left: 2px;
+	    top: 106px;
+	    overflow: hidden;
+	}
+
+	#Group_cn {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Game_img_co {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_cp {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_cq {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 221px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Game_img_cr {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_cs {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_ct {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 442px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Game_img_cu {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_cv {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_cw {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 663px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Game_img_cx {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_cy {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_cz {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 884px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Game_img_c {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_c {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_c {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 135px;
+	    overflow: visible;
+	}
+
+	#Game_img_da {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_da {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_da {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 221px;
+	    top: 135px;
+	    overflow: visible;
+	}
+
+	#Game_img_db {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_db {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_db {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 442px;
+	    top: 135px;
+	    overflow: visible;
+	}
+
+	#Game_img_dc {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_dc {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_dc {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 663px;
+	    top: 135px;
+	    overflow: visible;
+	}
+
+	#Game_img_dd {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_dd {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_de {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 884px;
+	    top: 135px;
+	    overflow: visible;
+	}
+
+	#Game_img_df {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Mask_Group_4_dg {
+	    position: absolute;
+	    width: 201px;
+	    height: 115px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Thanhquangcao {
+	    position: absolute;
+	    width: 1366px;
+	    height: 100px;
+	    left: 0px;
+	    top: 125px;
+	    overflow: visible;
+	}
+
+	#Thanhquangcao1 {
+	    opacity: 0.7;
+	    fill: rgba(39, 55, 77, 1);
+	}
+
+	.Thanhquangcao1 {
+	    position: absolute;
+	    overflow: visible;
+	    width: 1366px;
+	    height: 100px;
+	    left: 0px;
+	    top: 0px;
+	}
+
+	#Group_15 {
+	    position: absolute;
+	    width: 1072px;
+	    height: 42px;
+	    left: 182px;
+	    top: 31px;
+	    overflow: visible;
+	}
+
+	#Dangchoi {
+	    position: absolute;
+	    width: 132px;
+	    height: 42px;
+	    left: 940px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Component_1__1 {
+	    position: absolute;
+	    width: 44px;
+	    height: 40px;
+	    left: 0px;
+	    top: 2px;
+	    overflow: visible;
+	}
+
+	#Icon_material-live-tv {
+	    fill: rgba(255, 255, 255, 1);
+	}
+
+	.Icon_material-live-tv {
+	    overflow: visible;
+	    position: absolute;
+	    width: 44px;
+	    height: 40px;
+	    left: 0px;
+	    top: 0px;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Icon_awesome-gamepad {
+	    fill: rgba(255, 255, 255, 1);
+	}
+
+	.Icon_awesome-gamepad {
+	    overflow: visible;
+	    position: absolute;
+	    width: 23.996px;
+	    height: 12px;
+	    left: 10px;
+	    top: 18px;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#ang_chi {
+	    left: 59px;
+	    top: 0px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 74px;
+	    white-space: nowrap;
+	    line-height: 24px;
+	    margin-top: -4px;
+	    text-align: left;
+	    font-family: Be Vietnam Pro;
+	    font-style: normal;
+	    font-weight: normal;
+	    font-size: 16px;
+	    color: rgba(255, 255, 255, 1);
+	    letter-spacing: 0.09375px;
+	}
+
+	#n_0000 {
+	    left: 59px;
+	    top: 23px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 53px;
+	    white-space: nowrap;
+	    line-height: 20px;
+	    margin-top: -3px;
+	    text-align: left;
+	    font-family: Be Vietnam Pro;
+	    font-style: normal;
+	    font-weight: normal;
+	    font-size: 14px;
+	    color: rgba(255, 255, 255, 1);
+	    letter-spacing: 0.1785714340209961px;
+	}
+
+	#Tructuyen {
+	    position: absolute;
+	    width: 134px;
+	    height: 42px;
+	    left: 708px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Component_1__2 {
+	    position: absolute;
+	    width: 44px;
+	    height: 35.2px;
+	    left: 0px;
+	    top: 4.4px;
+	    overflow: visible;
+	}
+
+	#Icon_material-web {
+	    fill: rgba(255, 255, 255, 1);
+	}
+
+	.Icon_material-web {
+	    overflow: visible;
+	    position: absolute;
+	    width: 44px;
+	    height: 35.2px;
+	    left: 0px;
+	    top: 0px;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Trc_tuyn {
+	    left: 59px;
+	    top: 0px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 76px;
+	    white-space: nowrap;
+	    line-height: 24px;
+	    margin-top: -4px;
+	    text-align: left;
+	    font-family: Be Vietnam Pro;
+	    font-style: normal;
+	    font-weight: normal;
+	    font-size: 16px;
+	    color: rgba(255, 255, 255, 1);
+	    letter-spacing: 0.09375px;
+	}
+
+	#n_00000 {
+	    left: 59px;
+	    top: 23px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 61px;
+	    white-space: nowrap;
+	    line-height: 20px;
+	    margin-top: -3px;
+	    text-align: left;
+	    font-family: Be Vietnam Pro;
+	    font-style: normal;
+	    font-weight: normal;
+	    font-size: 14px;
+	    color: rgba(255, 255, 255, 1);
+	    letter-spacing: 0.1785714340209961px;
+	}
+
+	#Tonggiochoi {
+	    position: absolute;
+	    width: 159.5px;
+	    height: 42px;
+	    left: 452.5px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Component_1__3 {
+	    position: absolute;
+	    width: 45px;
+	    height: 36px;
+	    left: 0px;
+	    top: 4px;
+	    overflow: visible;
+	}
+
+	#Icon_awesome-user-clock {
+	    fill: rgba(255, 255, 255, 1);
+	}
+
+	.Icon_awesome-user-clock {
+	    overflow: visible;
+	    position: absolute;
+	    width: 45px;
+	    height: 36px;
+	    left: 0px;
+	    top: 0px;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Tng_gi_chi {
+	    left: 59.5px;
+	    top: 0px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 101px;
+	    white-space: nowrap;
+	    line-height: 24px;
+	    margin-top: -4px;
+	    text-align: left;
+	    font-family: Be Vietnam Pro;
+	    font-style: normal;
+	    font-weight: normal;
+	    font-size: 16px;
+	    color: rgba(255, 255, 255, 1);
+	    letter-spacing: 0.09375px;
+	}
+
+	#n_0000000 {
+	    left: 59.5px;
+	    top: 23px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 80px;
+	    white-space: nowrap;
+	    line-height: 20px;
+	    margin-top: -3px;
+	    text-align: left;
+	    font-family: Be Vietnam Pro;
+	    font-style: normal;
+	    font-weight: normal;
+	    font-size: 14px;
+	    color: rgba(255, 255, 255, 1);
+	    letter-spacing: 0.1785714340209961px;
+	}
+
+	#Thanhvien {
+	    position: absolute;
+	    width: 129px;
+	    height: 42px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Component_1__4 {
+	    position: absolute;
+	    width: 28px;
+	    height: 28px;
+	    left: 0px;
+	    top: 8px;
+	    overflow: visible;
+	}
+
+	#Login {
+	    position: absolute;
+	    width: 28px;
+	    height: 28px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_224 {
+	    position: absolute;
+	    width: 28px;
+	    height: 28px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_223 {
+	    position: absolute;
+	    width: 28px;
+	    height: 28px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Rectangle_283 {
+	    fill: transparent;
+	}
+
+	.Rectangle_283 {
+	    position: absolute;
+	    overflow: visible;
+	    width: 28px;
+	    height: 28px;
+	    left: 0px;
+	    top: 0px;
+	}
+
+	#Hi {
+	    position: absolute;
+	    width: 267px;
+	    height: 37px;
+	    left: -239px;
+	    top: 7px;
+	    display: none;
+	    overflow: visible;
+	}
+
+	#Rectangle_283_d {
+	    opacity: 0.1;
+	    fill: rgba(253, 221, 5, 1);
+	}
+
+	.Rectangle_283_d {
+	    position: absolute;
+	    overflow: visible;
+	    width: 267px;
+	    height: 37px;
+	    left: 0px;
+	    top: 0px;
+	}
+
+	#Hi_dhcuong101090gmailcom {
+	    left: 41px;
+	    top: 7px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 213px;
+	    white-space: nowrap;
+	    text-align: center;
+	    font-family: Myriad Pro;
+	    font-style: normal;
+	    font-weight: normal;
+	    font-size: 16px;
+	    color: rgba(255, 255, 255, 1);
+	}
+
+	#Thnh_vin {
+	    left: 51px;
+	    top: 0px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 79px;
+	    white-space: nowrap;
+	    line-height: 24px;
+	    margin-top: -4px;
+	    text-align: left;
+	    font-family: Be Vietnam Pro;
+	    font-style: normal;
+	    font-weight: normal;
+	    font-size: 16px;
+	    color: rgba(255, 255, 255, 1);
+	    letter-spacing: 0.09375px;
+	}
+
+	#n_000000 {
+	    left: 51px;
+	    top: 23px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 72px;
+	    white-space: nowrap;
+	    line-height: 20px;
+	    margin-top: -3px;
+	    text-align: left;
+	    font-family: Be Vietnam Pro;
+	    font-style: normal;
+	    font-weight: normal;
+	    font-size: 14px;
+	    color: rgba(255, 255, 255, 1);
+	    letter-spacing: 0.1785714340209961px;
+	}
+
+	#Group_11 {
+	    position: absolute;
+	    width: 116.993px;
+	    height: 42px;
+	    left: 233.007px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Component_1__5 {
+	    position: absolute;
+	    width: 44.993px;
+	    height: 22.5px;
+	    left: 0px;
+	    top: 10.75px;
+	    overflow: visible;
+	}
+
+	#Icon_awesome-gamepad_ed {
+	    fill: rgba(255, 255, 255, 1);
+	}
+
+	.Icon_awesome-gamepad_ed {
+	    overflow: visible;
+	    position: absolute;
+	    width: 44.993px;
+	    height: 22.5px;
+	    left: 0px;
+	    top: 0px;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Tr_chi {
+	    left: 59.993px;
+	    top: 0px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 58px;
+	    white-space: nowrap;
+	    line-height: 24px;
+	    margin-top: -4px;
+	    text-align: left;
+	    font-family: Be Vietnam Pro;
+	    font-style: normal;
+	    font-weight: normal;
+	    font-size: 16px;
+	    color: rgba(255, 255, 255, 1);
+	    letter-spacing: 0.09375px;
+	}
+
+	#n_000 {
+	    left: 59.993px;
+	    top: 23px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 45px;
+	    white-space: nowrap;
+	    line-height: 20px;
+	    margin-top: -3px;
+	    text-align: left;
+	    font-family: Be Vietnam Pro;
+	    font-style: normal;
+	    font-weight: normal;
+	    font-size: 14px;
+	    color: rgba(255, 255, 255, 1);
+	    letter-spacing: 0.1785714340209961px;
+	}
+
+	#Thegioimo1 {
+	    position: absolute;
+	    width: 260px;
+	    height: 251px;
+	    left: 139px;
+	    top: 2068px;
+	    overflow: visible;
+	}
+
+	#danh_mc {
+	    position: absolute;
+	    width: 259px;
+	    height: 251px;
+	    left: 1px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Rectangle_752_ej {
+	    opacity: 0.6;
+	    fill: url(#Rectangle_752_ej);
+	}
+
+	.Rectangle_752_ej {
+	    position: absolute;
+	    overflow: visible;
+	    width: 260px;
+	    height: 250px;
+	    left: 0px;
+	    top: 0px;
+	}
+
+	#Th_gii_m {
+	    left: 58px;
+	    top: 170px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 140px;
+	    white-space: nowrap;
+	    text-align: left;
+	    font-family: Roboto;
+	    font-style: normal;
+	    font-weight: bold;
+	    font-size: 26px;
+	    color: rgba(255, 255, 255, 1);
+	}
+
+	#Thegioimo2 {
+	    position: absolute;
+	    width: 260px;
+	    height: 251px;
+	    left: 415px;
+	    top: 2067px;
+	    overflow: visible;
+	}
+
+	#danh_mc_em {
+	    position: absolute;
+	    width: 259px;
+	    height: 251px;
+	    left: 1px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Rectangle_753_eo {
+	    opacity: 0.6;
+	    fill: url(#Rectangle_753_eo);
+	}
+
+	.Rectangle_753_eo {
+	    position: absolute;
+	    overflow: visible;
+	    width: 260px;
+	    height: 250px;
+	    left: 0px;
+	    top: 0px;
+	}
+
+	#Th_gii_m_ep {
+	    left: 58px;
+	    top: 170px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 140px;
+	    white-space: nowrap;
+	    text-align: left;
+	    font-family: Roboto;
+	    font-style: normal;
+	    font-weight: bold;
+	    font-size: 26px;
+	    color: rgba(255, 255, 255, 1);
+	}
+
+	#Thegioimo3 {
+	    position: absolute;
+	    width: 260px;
+	    height: 251px;
+	    left: 691px;
+	    top: 2067px;
+	    overflow: visible;
+	}
+
+	#danh_mc_er {
+	    position: absolute;
+	    width: 259px;
+	    height: 251px;
+	    left: 1px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Rectangle_753_et {
+	    opacity: 0.6;
+	    fill: url(#Rectangle_753_et);
+	}
+
+	.Rectangle_753_et {
+	    position: absolute;
+	    overflow: visible;
+	    width: 260px;
+	    height: 250px;
+	    left: 0px;
+	    top: 0px;
+	}
+
+	#Th_gii_m_eu {
+	    left: 58px;
+	    top: 170px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 140px;
+	    white-space: nowrap;
+	    text-align: left;
+	    font-family: Roboto;
+	    font-style: normal;
+	    font-weight: bold;
+	    font-size: 26px;
+	    color: rgba(255, 255, 255, 1);
+	}
+
+	#Thegioimo4 {
+	    position: absolute;
+	    width: 260px;
+	    height: 251px;
+	    left: 967px;
+	    top: 2067px;
+	    overflow: visible;
+	}
+
+	#danh_mc_ew {
+	    position: absolute;
+	    width: 259px;
+	    height: 251px;
+	    left: 1px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Rectangle_753_ey {
+	    opacity: 0.6;
+	    fill: url(#Rectangle_753_ey);
+	}
+
+	.Rectangle_753_ey {
+	    position: absolute;
+	    overflow: visible;
+	    width: 260px;
+	    height: 250px;
+	    left: 0px;
+	    top: 0px;
+	}
+
+	#Th_gii_m_ez {
+	    left: 58px;
+	    top: 170px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 140px;
+	    white-space: nowrap;
+	    text-align: left;
+	    font-family: Roboto;
+	    font-style: normal;
+	    font-weight: bold;
+	    font-size: 26px;
+	    color: rgba(255, 255, 255, 1);
+	}
+
+	#Danhmucgame {
+	    position: absolute;
+	    width: 174px;
+	    height: 82px;
+	    left: 139px;
+	    top: 1985px;
+	    overflow: visible;
+	    padding: 0px 0px 50px 0px;
+	}
+
+	#Danh_mc_game {
+	    left: 0px;
+	    top: 0px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 175px;
+	    white-space: nowrap;
+	    text-align: left;
+	    font-family: Be Vietnam Pro;
+	    font-style: normal;
+	    font-weight: bold;
+	    font-size: 24px;
+	    color: rgba(255, 255, 255, 1);
+	}
+
+	#Header {
+	    position: absolute;
+	    width: 1366px;
+	    height: 298px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Rectangle_78 {
+	    fill: rgba(39, 55, 77, 1);
+	}
+
+	.Rectangle_78 {
+	    position: absolute;
+	    overflow: visible;
+	    width: 1366px;
+	    height: 101px;
+	    left: 0px;
+	    top: 0px;
+	}
+
+	#Group_29 {
+	    position: absolute;
+	    width: 315px;
+	    height: 57.413px;
+	    left: 403px;
+	    top: 24.587px;
+	    overflow: visible;
+	    padding: 0px;
+	}
+
+	#Group_3 {
+	    position: absolute;
+	    width: 73px;
+	    height: 54.75px;
+	    left: 242px;
+	    top: 2.662px;
+	    overflow: visible;
+	}
+
+	#TH_VIN {
+	    left: 0px;
+	    top: 33.75px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 74px;
+	    white-space: nowrap;
+	    line-height: 28px;
+	    margin-top: -6px;
+	    text-align: left;
+	    font-family: Be Vietnam Pro;
+	    font-style: normal;
+	    font-weight: normal;
+	    font-size: 16px;
+	    color: rgba(255, 255, 255, 1);
+	    letter-spacing: 0.27777774810791017px;
+	}
+
+	#Icon_material-library-add {
+	    fill: rgba(255, 255, 255, 1);
+	}
+
+	.Icon_material-library-add {
+	    overflow: visible;
+	    position: absolute;
+	    width: 22.501px;
+	    height: 22.501px;
+	    left: 28.25px;
+	    top: 0px;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Group_2 {
+	    position: absolute;
+	    width: 75px;
+	    height: 54.956px;
+	    left: 128px;
+	    top: 2.457px;
+	    overflow: visible;
+	}
+
+	#TR_CHI {
+	    left: 0px;
+	    top: 33.956px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 76px;
+	    white-space: nowrap;
+	    line-height: 28px;
+	    margin-top: -6px;
+	    text-align: left;
+	    font-family: Be Vietnam Pro;
+	    font-style: normal;
+	    font-weight: normal;
+	    font-size: 16px;
+	    color: rgba(255, 255, 255, 1);
+	    letter-spacing: 0.27777774810791017px;
+	}
+
+	#Icon_ionic-logo-game-controlle {
+	    position: absolute;
+	    width: 30.001px;
+	    height: 21.419px;
+	    left: 26px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Path_4483 {
+	    fill: rgba(255, 255, 255, 1);
+	}
+
+	.Path_4483 {
+	    overflow: visible;
+	    position: absolute;
+	    width: 30.001px;
+	    height: 21.419px;
+	    left: 0px;
+	    top: 0px;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Path_4482 {
+	    fill: rgba(255, 255, 255, 1);
+	}
+
+	.Path_4482 {
+	    overflow: visible;
+	    position: absolute;
+	    width: 2.584px;
+	    height: 2.598px;
+	    left: 5.614px;
+	    top: 7.265px;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Group_1 {
+	    position: absolute;
+	    width: 92px;
+	    height: 57.413px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#TRANG_CH {
+	    left: 0px;
+	    top: 36.413px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 93px;
+	    white-space: nowrap;
+	    line-height: 28px;
+	    margin-top: -6px;
+	    text-align: center;
+	    font-family: Be Vietnam Pro;
+	    font-style: normal;
+	    font-weight: normal;
+	    font-size: 16px;
+	    color: rgba(255, 255, 255, 1);
+	    letter-spacing: 0.27777774810791017px;
+	}
+
+	#Mask_Group_5 {
+	    position: absolute;
+	    width: 30px;
+	    height: 23.329px;
+	    left: 31px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Group_30 {
+	    position: absolute;
+	    width: 110px;
+	    height: 30px;
+	    left: 841px;
+	    top: 39px;
+	    overflow: visible;
+	    padding: 0px;
+	}
+
+	#Rectangle_6 {
+	    fill: rgba(255, 255, 255, 1);
+	}
+
+	.Rectangle_6 {
+	    position: absolute;
+	    overflow: visible;
+	    width: 30px;
+	    height: 30px;
+	    left: 80px;
+	    top: 0px;
+	}
+
+	#Rectangle_5 {
+	    fill: rgba(255, 255, 255, 1);
+	}
+
+	.Rectangle_5 {
+	    position: absolute;
+	    overflow: visible;
+	    width: 30px;
+	    height: 30px;
+	    left: 40px;
+	    top: 0px;
+	}
+
+	#Rectangle_4 {
+	    fill: rgba(255, 255, 255, 1);
+	}
+
+	.Rectangle_4 {
+	    position: absolute;
+	    overflow: visible;
+	    width: 30px;
+	    height: 30px;
+	    left: 0px;
+	    top: 0px;
+	}
+
+	#Logo {
+	    position: absolute;
+	    width: 163.394px;
+	    height: 37px;
+	    left: 139px;
+	    top: 31.5px;
+	    overflow: visible;
+	}
+
+	#Group_1024 {
+	    position: absolute;
+	    width: 126.514px;
+	    height: 33.263px;
+	    left: 0px;
+	    top: 3.737px;
+	    overflow: visible;
+	}
+
+	#Path_4467 {
+	    fill: rgba(255, 255, 255, 1);
+	}
+
+	.Path_4467 {
+	    overflow: visible;
+	    position: absolute;
+	    width: 1px;
+	    height: 1px;
+	    left: 54.188px;
+	    top: 17.332px;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Path_4468 {
+	    fill: rgba(255, 255, 255, 1);
+	}
+
+	.Path_4468 {
+	    overflow: visible;
+	    position: absolute;
+	    width: 30.681px;
+	    height: 25.874px;
+	    left: 23.508px;
+	    top: 0.112px;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Path_4469 {
+	    fill: rgba(255, 255, 255, 1);
+	}
+
+	.Path_4469 {
+	    overflow: visible;
+	    position: absolute;
+	    width: 39.861px;
+	    height: 33.172px;
+	    left: 0.092px;
+	    top: 0.092px;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Path_4470 {
+	    fill: rgba(255, 255, 255, 1);
+	}
+
+	.Path_4470 {
+	    overflow: visible;
+	    position: absolute;
+	    width: 31.47px;
+	    height: 29.661px;
+	    left: 95.045px;
+	    top: 0.112px;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Path_4471 {
+	    fill: rgba(255, 255, 255, 1);
+	}
+
+	.Path_4471 {
+	    overflow: visible;
+	    position: absolute;
+	    width: 27.041px;
+	    height: 29.166px;
+	    left: 56.477px;
+	    top: 0.112px;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Path_4472 {
+	    fill: rgba(255, 255, 255, 1);
+	}
+
+	.Path_4472 {
+	    overflow: visible;
+	    position: absolute;
+	    width: 25.548px;
+	    height: 18.894px;
+	    left: 58.826px;
+	    top: 10.879px;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Path_4473 {
+	    fill: rgba(255, 255, 255, 1);
+	}
+
+	.Path_4473 {
+	    overflow: visible;
+	    position: absolute;
+	    width: 16.081px;
+	    height: 29.166px;
+	    left: 85.961px;
+	    top: 0.112px;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Path_4474 {
+	    fill: rgba(255, 255, 255, 1);
+	}
+
+	.Path_4474 {
+	    overflow: visible;
+	    position: absolute;
+	    width: 6.687px;
+	    height: 16.674px;
+	    left: 8.802px;
+	    top: 13.1px;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Path_4475 {
+	    fill: rgba(0, 0, 0, 0);
+	    stroke: rgba(26, 24, 24, 1);
+	    stroke-width: 1px;
+	    stroke-linejoin: miter;
+	    stroke-linecap: butt;
+	    stroke-miterlimit: 10;
+	    shape-rendering: auto;
+	}
+
+	.Path_4475 {
+	    overflow: visible;
+	    position: absolute;
+	    width: 1px;
+	    height: 1px;
+	    left: 0px;
+	    top: 0px;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Path_4476 {
+	    fill: rgba(0, 0, 0, 0);
+	    stroke: rgba(26, 24, 24, 1);
+	    stroke-width: 1px;
+	    stroke-linejoin: miter;
+	    stroke-linecap: butt;
+	    stroke-miterlimit: 10;
+	    shape-rendering: auto;
+	}
+
+	.Path_4476 {
+	    overflow: visible;
+	    position: absolute;
+	    width: 1px;
+	    height: 1px;
+	    left: 19.683px;
+	    top: 0px;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Group_1025 {
+	    position: absolute;
+	    width: 31.77px;
+	    height: 37px;
+	    left: 131.623px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Path_4477 {
+	    fill: rgba(150, 42, 47, 1);
+	}
+
+	.Path_4477 {
+	    overflow: visible;
+	    position: absolute;
+	    width: 28.787px;
+	    height: 33.052px;
+	    left: 2.983px;
+	    top: 3.948px;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Path_4478 {
+	    fill: rgba(150, 42, 47, 1);
+	}
+
+	.Path_4478 {
+	    overflow: visible;
+	    position: absolute;
+	    width: 23.097px;
+	    height: 29.104px;
+	    left: 0px;
+	    top: 0px;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#info_user {
+	    position: absolute;
+	    width: 236px;
+	    height: 271px;
+	    left: 967px;
+	    top: 27px;
+	    overflow: visible;
+	}
+
+	#Group_1157 {
+	    position: absolute;
+	    width: 236px;
+	    height: 52px;
+	    left: 0px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Rectangle_7 {
+	    fill: rgba(255, 255, 255, 1);
+	}
+
+	.Rectangle_7 {
+	    position: absolute;
+	    overflow: visible;
+	    width: 52px;
+	    height: 52px;
+	    left: 0px;
+	    top: 0px;
+	}
+
+	#loibodoithe123 {
+	    left: 68px;
+	    top: 12px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 137px;
+	    white-space: nowrap;
+	    line-height: 32px;
+	    margin-top: -6px;
+	    text-align: left;
+	    font-family: Be Vietnam Pro;
+	    font-style: normal;
+	    font-weight: normal;
+	    font-size: 20px;
+	    color: rgba(255, 255, 255, 1);
+	    letter-spacing: 0.07500000476837158px;
+	}
+
+	#ic_code_24px {
+	    fill: rgba(255, 255, 255, 1);
+	}
+
+	.ic_code_24px {
+	    overflow: visible;
+	    position: absolute;
+	    width: 7.4px;
+	    height: 12px;
+	    transform: translate(-1017px, -24px) matrix(1, 0, 0, 1, 1243.3, 44.5) rotate(-90deg);
+	    transform-origin: center;
+	    left: 0px;
+	    top: 0px;
+	}
+
+	#Group_1159 {
+	    opacity: 0;
+	    position: absolute;
+	    width: 225px;
+	    height: 271px;
+	    left: 6px;
+	    top: 0px;
+	    overflow: visible;
+	}
+
+	#Rectangle_743 {
+	    fill: rgba(82, 109, 130, 1);
+	}
+
+	.Rectangle_743 {
+	    filter: drop-shadow(0px 3px 10px rgba(0, 0, 0, 0.161));
+	    position: absolute;
+	    overflow: visible;
+	    width: 255px;
+	    height: 301px;
+	    left: 0px;
+	    top: 0px;
+	}
+
+	#Thng_tin_ti_khon {
+	    left: 18px;
+	    top: 13px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 139px;
+	    white-space: nowrap;
+	    text-align: left;
+	    font-family: Roboto;
+	    font-style: normal;
+	    font-weight: normal;
+	    font-size: 16px;
+	    color: rgba(252, 252, 252, 1);
+	}
+
+	#Lch_s_giao_dch {
+	    left: 18px;
+	    top: 56px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 122px;
+	    white-space: nowrap;
+	    text-align: left;
+	    font-family: Roboto;
+	    font-style: normal;
+	    font-weight: normal;
+	    font-size: 16px;
+	    color: rgba(252, 252, 252, 1);
+	}
+
+	#Mt_khu_v_bo_mt {
+	    left: 18px;
+	    top: 99px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 151px;
+	    white-space: nowrap;
+	    text-align: left;
+	    font-family: Roboto;
+	    font-style: normal;
+	    font-weight: normal;
+	    font-size: 16px;
+	    color: rgba(252, 252, 252, 1);
+	}
+
+	#Np_tin {
+	    left: 18px;
+	    top: 142px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 61px;
+	    white-space: nowrap;
+	    text-align: left;
+	    font-family: Roboto;
+	    font-style: normal;
+	    font-weight: normal;
+	    font-size: 16px;
+	    color: rgba(252, 252, 252, 1);
+	}
+
+	#Group_1158 {
+	    position: absolute;
+	    width: 113.063px;
+	    height: 21px;
+	    left: 18px;
+	    top: 234px;
+	    overflow: visible;
+	}
+
+	#ng_xut {
+	    left: 37.063px;
+	    top: 0px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 77px;
+	    white-space: nowrap;
+	    line-height: 28px;
+	    margin-top: -6px;
+	    text-align: center;
+	    font-family: Be Vietnam Pro;
+	    font-style: normal;
+	    font-weight: normal;
+	    font-size: 16px;
+	    color: rgba(255, 255, 255, 1);
+	    letter-spacing: 0.27777774810791017px;
+	}
+
+	#Icon_feather-log-out {
+	    position: absolute;
+	    width: 19px;
+	    height: 19px;
+	    left: 0px;
+	    top: 2px;
+	    overflow: visible;
+	}
+
+	#Path_4479 {
+	    fill: transparent;
+	    stroke: rgba(255, 255, 255, 1);
+	    stroke-width: 3px;
+	    stroke-linejoin: round;
+	    stroke-linecap: round;
+	    stroke-miterlimit: 4;
+	    shape-rendering: auto;
+	}
+
+	.Path_4479 {
+	    overflow: visible;
+	    position: absolute;
+	    width: 9.333px;
+	    height: 22px;
+	    left: 0px;
+	    top: 0px;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Path_4480 {
+	    fill: transparent;
+	    stroke: rgba(255, 255, 255, 1);
+	    stroke-width: 3px;
+	    stroke-linejoin: round;
+	    stroke-linecap: round;
+	    stroke-miterlimit: 4;
+	    shape-rendering: auto;
+	}
+
+	.Path_4480 {
+	    overflow: visible;
+	    position: absolute;
+	    width: 8.899px;
+	    height: 14.798px;
+	    left: 13.722px;
+	    top: 4.222px;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Path_4481 {
+	    fill: transparent;
+	    stroke: rgba(255, 255, 255, 1);
+	    stroke-width: 3px;
+	    stroke-linejoin: round;
+	    stroke-linecap: round;
+	    stroke-miterlimit: 4;
+	    shape-rendering: auto;
+	}
+
+	.Path_4481 {
+	    overflow: visible;
+	    position: absolute;
+	    width: 15.667px;
+	    height: 3px;
+	    left: 6.333px;
+	    top: 9.5px;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+
+	#Foodter {
+	    position: absolute;
+	    width: 1366px;
+	    height: 173px;
+	    left: 0px;
+	    top: 2438px;
+	    overflow: visible;
+	}
+
+	#Rectangle_233 {
+	    fill: rgba(39, 55, 77, 1);
+	}
+
+	.Rectangle_233 {
+	    position: absolute;
+	    overflow: visible;
+	    width: 1366px;
+	    height: 173px;
+	    left: 0px;
+	    top: 0px;
+	}
+
+	#Group_1223 {
+	    position: absolute;
+	    width: 1036px;
+	    height: 115px;
+	    left: 139px;
+	    top: 29px;
+	    overflow: visible;
+	}
+
+	#n_2023_Valve_Corporation_All_r {
+	    left: 0px;
+	    top: 0px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 1037px;
+	    height: 69px;
+	    line-height: 24px;
+	    margin-top: -4px;
+	    text-align: left;
+	    font-family: Be Vietnam Pro;
+	    font-style: normal;
+	    font-weight: normal;
+	    font-size: 16px;
+	    color: rgba(255, 255, 255, 1);
+	    letter-spacing: 0.09375px;
+	}
+
+	#About_Valve_____Jobs_____Revol {
+	    left: 0px;
+	    top: 94px;
+	    position: absolute;
+	    overflow: visible;
+	    width: 802px;
+	    white-space: nowrap;
+	    line-height: 24px;
+	    margin-top: -4px;
+	    text-align: left;
+	    font-family: Be Vietnam Pro;
+	    font-style: normal;
+	    font-weight: normal;
+	    font-size: 16px;
+	    color: rgba(255, 255, 255, 1);
+	    letter-spacing: 0.09375px;
+	}
